@@ -1,0 +1,11 @@
+Model Information:
+* title:	Surge Soda Can
+* source:	https://sketchfab.com/3d-models/surge-soda-can-8ccfd3bd1afa45a3af6f0738743e972b
+* author:	MG_Designn (https://sketchfab.com/006870858)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Surge Soda Can" (https://sketchfab.com/3d-models/surge-soda-can-8ccfd3bd1afa45a3af6f0738743e972b) by MG_Designn (https://sketchfab.com/006870858) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
